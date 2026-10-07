@@ -1,0 +1,3 @@
+# Dependencies for HTTP requests and Word (.docx) export.
+requests==2.32.3
+python-docx==1.2.0
